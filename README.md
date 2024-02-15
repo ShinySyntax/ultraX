@@ -45,6 +45,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Project structure
+- `auth/` - Backend for Auth in the Login / Sign Up 
 
 - `App/` - React App root component, contains global providers and routing configuration
 
