@@ -1,4 +1,4 @@
-# Getting Started
+# UltraX Dex Platform
 
 **What is UltraX?**
 
