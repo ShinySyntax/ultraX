@@ -96,7 +96,6 @@
     "lint": "node node_modules/.bin/eslint src",
     "server": "node auth/server.js",
     "pre-commit": "npm run test -- --watchAll=false && npm run lint",
-    "prepare": "husky install && yarn lingui:prepare",
     "extract": "NODE_ENV=development lingui extract --clean",
     "compile": "lingui compile",
     "lingui:prepare": "NODE_ENV=development yarn extract && yarn compile",
