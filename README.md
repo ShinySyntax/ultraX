@@ -105,10 +105,10 @@ In the Trade Page, User can see the trading view graph of each Tokens you select
         - Sell / Buy Listed Token (ETH, USDT, BTC, BNB)
 5. UltraX Faucet
    
-  You can get UltraX faucet in https://faucet.ultrax.io/
+    You can get UltraX faucet in https://faucet.ultrax.io/
 
 6. UltraX Doc
    
-  https://utxio.gitbook.io/utx  (old version)
+    https://utxio.gitbook.io/utx  (old version)
 
-  We are updating the UltraX Documentation for moving to EVM.
+    We are updating the UltraX Documentation for moving to EVM.
