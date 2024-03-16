@@ -75,7 +75,6 @@
     "mongoose": "^8.0.0",
 		"nodemon": "^3.0.1",
 		"paytmchecksum": "^1.5.1",
-    "viem": "^1.16.6",
 		"validator": "^13.11.0",
     "web-vitals": "1.1.2"
   },
