@@ -14,7 +14,6 @@
 
 To begin, we should make clear the distinctions between the different areas of "UltraX", some of which may confuse new users.
 
-- **UltraX Labs**: The company which developed the Uniswap protocol, along with the web interface.
 - **The Ultrax Protocol**: A suite of persistent, non-upgradable smart contracts that together create an automated market maker, a protocol that facilitates peer-to-peer market making and swapping of ERC-20, BEP-20 tokens , Bridge on the EVM Chain and BITCOIN.
 - **The Ultrax Interface**: A web interface that allows for easy interaction with the Uniswap protocol. The interface is only one of many ways one may interact with the Uniswap protocol.
 - **UltraX Governance**: A governance system for governing the Ultrax Protocol, enabled by the UTX token.
